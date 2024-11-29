@@ -9,7 +9,7 @@ public class Casecheck{
             System.out.print("LowerCase");
         }
         else if(ch>'A' && ch <'Z'){
-            Sytsem.out.print("UpperCase");
+            System.out.print("UpperCase");
         }
     }
 }
