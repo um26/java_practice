@@ -52,4 +52,4 @@ This repository contains a collection of simple and fundamental Java programs th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/java-practice-projects.git
+   git clone https://github.com/um-26/java_practice.git
