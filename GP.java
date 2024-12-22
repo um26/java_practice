@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class GP{
+public class GP{
     
     public static void main(String[] args){
         
