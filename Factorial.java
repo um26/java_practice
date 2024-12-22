@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Fact{
+class Factorial{
     
     public static void main(String[] args){
         
