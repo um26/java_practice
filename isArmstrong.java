@@ -13,7 +13,6 @@ public class isArmstrong{
       int x=j%10;
       sum=sum+ x*x*x;
     }
-    if(sum==s) return true;
-    else return false;
+    return sum==s;
   }
 }
